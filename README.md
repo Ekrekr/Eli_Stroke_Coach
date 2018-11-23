@@ -17,4 +17,4 @@ All code required for a build is in Stroke_Coach.ino.
 
 ## Circuity
 In lieu of a proper circuit diagram, here is a prototype on a breadboard in a box.
-![alt text](box_version.jpg)
+![Eli stroke coach in a box](box_version.jpg)
