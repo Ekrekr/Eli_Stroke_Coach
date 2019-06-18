@@ -1,4 +1,4 @@
-# Eli-Stroke-Coach
+# Arduino Stroke Coach
 A budget stroke coach prototype made using an Atmega 328-P chip and some other basic components.
 
 All code required for a build is in Stroke_Coach.ino.
